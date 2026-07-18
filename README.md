@@ -141,13 +141,15 @@ Scraped and structured real patient narratives from Care Opinion into a clean, N
 
 <br/>
 
-## 🏆 Trophy case
+## 🏆 Highlights
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Abdalrhman05&theme=onedark&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" width="90%"/>
-</div>
 
-> If the row above ever shows up blank, GitHub's public API is rate-limiting the widget (a known hiccup with this free service) — refresh the page or check back in a few minutes; it's not something broken in the file itself.
+![Competition](https://img.shields.io/badge/Qafza_%C3%97_IEEE_AI_Competition-Top_8%25_(11%2F150)-FFD700?style=for-the-badge&logo=trophy&logoColor=black)
+![Hackathon](https://img.shields.io/badge/Hack_Ramadan_Jordan_2026-RAG_Chatbot_Built-6C5CE7?style=for-the-badge&logo=starship&logoColor=white)
+![GPA](https://img.shields.io/badge/GPA-87.3%2F100-00B894?style=for-the-badge&logo=googlescholar&logoColor=white)
+
+</div>
 
 <br/>
 
@@ -166,19 +168,13 @@ Scraped and structured real patient narratives from Care Opinion into a clean, N
 
 <br/>
 
-## 🐍 My contribution graph, but make it a snake
+## 🌱 Contribution activity
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdalrhman05/Abdalrhman05/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abdalrhman05/Abdalrhman05/output/github-contribution-grid-snake.svg" />
-  <img alt="a snake eating my github contribution graph" src="https://raw.githubusercontent.com/Abdalrhman05/Abdalrhman05/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
+<img src="https://ghchart.rshah.org/6c5ce7/Abdalrhman05" alt="Abdalrhman's github contribution chart" width="100%"/>
 
 </div>
-
-> ⚠️ This one **will look broken until you finish one setup step**: it points to a branch called `output` that doesn't exist yet. Add `snake.yml` to `.github/workflows/` in this repo and push — the action creates the `output` branch and commits the SVG there on its first run. After that it updates itself daily.
 
 <br/>
 
@@ -189,26 +185,26 @@ Scraped and structured real patient narratives from Care Opinion into a clean, N
 <table>
 <tr>
 <td align="center" width="240">
-<img src="https://img.icons8.com/fluency/48/graduation-cap.png" width="40"/>
-<br/><b>B.Sc. Data Science & AI</b>
+<h2>🎓</h2>
+<b>B.Sc. Data Science & AI</b>
 <br/><sub>Applied Science Private University</sub>
 <br/><img src="https://img.shields.io/badge/GPA-87.3%2F100-6C5CE7?style=flat-square"/>
 </td>
 <td align="center" width="240">
-<img src="https://img.icons8.com/fluency/48/power-bi.png" width="40"/>
-<br/><b>PL-300</b>
+<h2>📊</h2>
+<b>PL-300</b>
 <br/><sub>Power BI Data Analyst</sub>
 <br/><img src="https://img.shields.io/badge/Microsoft_Certified-F2C811?style=flat-square&logo=microsoft&logoColor=black"/>
 </td>
 <td align="center" width="240">
-<img src="https://img.icons8.com/fluency/48/azure-1.png" width="40"/>
-<br/><b>AI-900</b>
+<h2>☁️</h2>
+<b>AI-900</b>
 <br/><sub>Azure AI Fundamentals</sub>
 <br/><img src="https://img.shields.io/badge/Microsoft_Certified-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
 </td>
 <td align="center" width="240">
-<img src="https://img.icons8.com/fluency/48/graduation-cap.png" width="40"/>
-<br/><b>Data Analyst</b> · <b>ML Automation</b>
+<h2>📈</h2>
+<b>Data Analyst</b> · <b>ML Automation</b>
 <br/><sub>Career track courses</sub>
 <br/><img src="https://img.shields.io/badge/DataCamp-05192D?style=flat-square&logo=datacamp&logoColor=white"/>
 </td>
