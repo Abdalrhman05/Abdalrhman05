@@ -75,21 +75,21 @@ I'm not the "I know 20 languages" type — I go deep on **making AI agents relia
 <td width="50%" valign="top">
 
 **🏫 AI-Powered School Portal**
-*TechVancer — live production app*
+![Live](https://img.shields.io/badge/🟢_Live_in_production-2E7D32?style=flat-square) ![Company](https://img.shields.io/badge/TechVancer-1a1a2e?style=flat-square)
 
 A school management system where the boring parts run themselves: a webhook fires when results come in, Gemini analyzes performance, Gmail sends parents a personalized note — no human in the loop. Bilingual AR/EN, role-based access, built to survive bulk data from real institutions.
 
-`n8n` `Gemini AI` `React` `Supabase` `Gmail API`
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
 **💬 Hayat — RAG Chatbot**
-*Hack Ramadan Jordan 2026*
+![Award](https://img.shields.io/badge/🏆_Hack_Ramadan_Jordan_2026-6C5CE7?style=flat-square)
 
 A chatbot with a strict rule: answer only from its own knowledge base, or say nothing. Query comes in → vector search in Supabase → context gets stitched into the prompt → clean, grounded answer out. Built to kill hallucination, not encourage it.
 
-`n8n` `Supabase Vector Store` `Gemini AI`
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![Supabase](https://img.shields.io/badge/Vector_Store-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 
 </td>
 </tr>
@@ -97,21 +97,21 @@ A chatbot with a strict rule: answer only from its own knowledge base, or say no
 <td width="50%" valign="top">
 
 **📈 Adult Income Prediction**
-*48K+ records, UCI Adult Census*
+![Result](https://img.shields.io/badge/85.56%25_accuracy-00B894?style=flat-square) ![Data](https://img.shields.io/badge/48K%2B_records-1a1a2e?style=flat-square)
 
-Threw 7 classification models at the same problem to see what actually wins. Answer: an ensemble beats every individual model, every time — Voting Classifier (RF + XGBoost) landed at 85.56% accuracy.
+Threw 7 classification models at the same problem to see what actually wins. Answer: an ensemble beats every individual model, every time — Voting Classifier (RF + XGBoost) took the top spot.
 
-`Python` `Scikit-learn` `XGBoost`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-0E7C61?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
 **📉 Telco Churn Prediction**
-*7K+ telecom customers*
+![Focus](https://img.shields.io/badge/Optimized_for_recall-FF6B6B?style=flat-square) ![Data](https://img.shields.io/badge/7K%2B_customers-1a1a2e?style=flat-square)
 
 Optimized for recall on purpose — missing a churner costs more than a false alarm. Shipped as an actual reusable pipeline (joblib), not a one-off notebook.
 
-`Python` `Pandas` `Scikit-learn`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
 </td>
 </tr>
@@ -119,21 +119,21 @@ Optimized for recall on purpose — missing a churner costs more than a false al
 <td width="50%" valign="top">
 
 **🩺 CDC Diabetes Health Indicators**
-*253K+ survey records*
+![Data](https://img.shields.io/badge/253K%2B_survey_records-1a1a2e?style=flat-square)
 
 Ran ANOVA, T-tests, and Chi-Square across a national health survey to find out what actually predicts diabetes risk. Short answer: BMI, age, blood pressure, income.
 
-`R` `ggplot2` `Statistics`
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![ggplot2](https://img.shields.io/badge/ggplot2-1a1a2e?style=flat-square) ![Statistics](https://img.shields.io/badge/Inferential_Stats-1a1a2e?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
 **🕸️ Healthcare Stories Scraper**
-*100+ patient stories*
+![Data](https://img.shields.io/badge/100%2B_patient_stories-1a1a2e?style=flat-square)
 
 Scraped and structured real patient narratives from Care Opinion into a clean, NLP-ready dataset — titles, dates, full text, all normalized.
 
-`Python` `BeautifulSoup`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-1a1a2e?style=flat-square)
 
 </td>
 </tr>
@@ -168,11 +168,11 @@ Scraped and structured real patient narratives from Care Opinion into a clean, N
 
 <br/>
 
-## 🌱 Contribution activity
+## 💭 Words I build by
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/6c5ce7/Abdalrhman05" alt="Abdalrhman's github contribution chart" width="100%"/>
+<img src="https://github-readme-quotes.vercel.app/quote?type=horizontal&theme=tokyonight&border_color=6C5CE7" alt="a random dev quote"/>
 
 </div>
 
