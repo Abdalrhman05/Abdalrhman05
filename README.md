@@ -144,8 +144,10 @@ Scraped and structured real patient narratives from Care Opinion into a clean, N
 ## 🏆 Trophy case
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Abdalrhman05&theme=algolia&no-frame=true&column=4&margin-w=10&margin-h=10" width="90%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Abdalrhman05&theme=onedark&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" width="90%"/>
 </div>
+
+> If the row above ever shows up blank, GitHub's public API is rate-limiting the widget (a known hiccup with this free service) — refresh the page or check back in a few minutes; it's not something broken in the file itself.
 
 <br/>
 
@@ -176,17 +178,42 @@ Scraped and structured real patient narratives from Care Opinion into a clean, N
 
 </div>
 
+> ⚠️ This one **will look broken until you finish one setup step**: it points to a branch called `output` that doesn't exist yet. Add `snake.yml` to `.github/workflows/` in this repo and push — the action creates the `output` branch and commits the SVG there on its first run. After that it updates itself daily.
+
 <br/>
 
-## 🎓 Credentials (the quick version)
+## 🎓 Credentials
 
 <div align="center">
 
-`B.Sc. Data Science & AI` · Applied Science Private University · GPA 87.3/100
-<br/>
-![PL-300](https://img.shields.io/badge/Microsoft-PL--300_Power_BI-F2C811?style=flat-square&logo=microsoft&logoColor=black)
-![AI-900](https://img.shields.io/badge/Microsoft-AI--900_Azure_AI-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![DataCamp](https://img.shields.io/badge/DataCamp-Data_Analyst_%2B_ML_Automation-05192D?style=flat-square&logo=datacamp&logoColor=white)
+<table>
+<tr>
+<td align="center" width="240">
+<img src="https://img.icons8.com/fluency/48/graduation-cap.png" width="40"/>
+<br/><b>B.Sc. Data Science & AI</b>
+<br/><sub>Applied Science Private University</sub>
+<br/><img src="https://img.shields.io/badge/GPA-87.3%2F100-6C5CE7?style=flat-square"/>
+</td>
+<td align="center" width="240">
+<img src="https://img.icons8.com/fluency/48/power-bi.png" width="40"/>
+<br/><b>PL-300</b>
+<br/><sub>Power BI Data Analyst</sub>
+<br/><img src="https://img.shields.io/badge/Microsoft_Certified-F2C811?style=flat-square&logo=microsoft&logoColor=black"/>
+</td>
+<td align="center" width="240">
+<img src="https://img.icons8.com/fluency/48/azure-1.png" width="40"/>
+<br/><b>AI-900</b>
+<br/><sub>Azure AI Fundamentals</sub>
+<br/><img src="https://img.shields.io/badge/Microsoft_Certified-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
+</td>
+<td align="center" width="240">
+<img src="https://img.icons8.com/fluency/48/graduation-cap.png" width="40"/>
+<br/><b>Data Analyst</b> · <b>ML Automation</b>
+<br/><sub>Career track courses</sub>
+<br/><img src="https://img.shields.io/badge/DataCamp-05192D?style=flat-square&logo=datacamp&logoColor=white"/>
+</td>
+</tr>
+</table>
 
 </div>
 
