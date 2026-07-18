@@ -160,7 +160,7 @@ Scraped and structured real patient narratives from Care Opinion into a clean, N
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abdalrhman05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdalrhman05&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdalrhman05&theme=tokyonight&hide_border=true" alt="streak stats"/>
+<img src="https://streak-stats.demolab.com?user=Abdalrhman05&theme=tokyonight&hide_border=true" alt="streak stats"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdalrhman05&theme=tokyo-night&hide_border=true" width="100%"/>
 
@@ -172,7 +172,7 @@ Scraped and structured real patient narratives from Care Opinion into a clean, N
 
 <div align="center">
 
-<img src="https://github-readme-quotes.vercel.app/quote?type=horizontal&theme=tokyonight&border_color=6C5CE7" alt="a random dev quote"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=6C5CE7&center=true&vCenter=true&width=700&lines=%22Make+it+work%2C+make+it+right%2C+make+it+reliable.%22;%22A+workflow+that+fails+silently+is+worse+than+one+that+doesn't+run.%22;%22Ship+small%2C+ship+often%2C+never+trust+an+untested+prompt.%22;%22The+best+automation+is+the+one+you+forget+is+running.%22" alt="quotes I build by"/>
 
 </div>
 
